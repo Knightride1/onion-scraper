@@ -1,0 +1,10 @@
+2025-05-22 17:33:06,430 - main - INFO - Configuration saved to config.json
+2025-05-22 17:33:06,430 - main - INFO - Initializing scraper...
+2025-05-22 17:33:06,430 - main - INFO - Running initial scrape...
+2025-05-22 17:33:06,430 - onion_scraper - INFO - Starting archive page scrape
+2025-05-22 17:33:06,778 - onion_scraper - INFO - Database saved to onion_links.json
+2025-05-22 17:33:06,779 - onion_scraper - INFO - Archive scrape complete. Found 0 new onion links
+2025-05-22 17:33:06,779 - main - INFO - Initial scrape completed. Found 0 onion links.
+2025-05-22 17:33:39,028 - onion_scraper - INFO - Starting archive page scrape
+2025-05-22 17:33:40,384 - onion_scraper - INFO - Database saved to onion_links.json
+2025-05-22 17:33:40,385 - onion_scraper - INFO - Archive scrape complete. Found 0 new onion links

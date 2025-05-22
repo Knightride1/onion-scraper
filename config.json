@@ -1,0 +1,10 @@
+{
+  "db_path": "onion_links.json",
+  "use_proxies": true,
+  "proxy_file": "proxies.txt",
+  "use_llm": false,
+  "llm_model": "meta-llama/llama-3.1-70b-versatile",
+  "scrape_interval_minutes": 30,
+  "api_scrape_interval_hours": 2,
+  "scan_strategy": "comprehensive"
+}
